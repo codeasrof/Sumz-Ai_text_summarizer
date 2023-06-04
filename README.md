@@ -1,4 +1,4 @@
-# TypeScript ChatGPT Clone
+# Sumz - AI text Summarizer
 
 This project has been made with Vite and Javascript  **using the OpenAI API**.
 
